@@ -8,7 +8,7 @@ export default defineConfig({
   cleanUrls: true,
 
   themeConfig: {
-    siteTitle: 'Green Paws LMS — Документація',
+    siteTitle: 'Green Paws LMS<br>Документація',
 
     nav: [
       { text: 'Початок роботи', link: '/guide/getting-started' },
@@ -124,7 +124,6 @@ export default defineConfig({
         }
       }
     },
-
     docFooterText: 'Green Paws LMS'
   }
 })
