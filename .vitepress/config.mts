@@ -66,6 +66,7 @@ export default defineConfig({
           items: [
             { text: 'Замовлення та повернення', link: '/admin/orders' },
             { text: 'Аналітика', link: '/admin/analytics' },
+            { text: 'Час навчання', link: '/admin/study-time' },
             { text: 'Налаштування', link: '/admin/settings' }
           ]
         }
